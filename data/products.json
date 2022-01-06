@@ -1,10 +1,18 @@
 [
-  {
-    "id": "STRATUS",
-    "name": "Stratus",
-    "price": 9.95,
-    "image": "",
-    "description": "Unlimited low, low clouds for one low, low price!",
-    "product_url": "/"
-  }
+	{
+		"id": "STRATUS",
+		"name": "Stratus",
+		"price": 9.95,
+		"image": "",
+		"description": "Unlimited low, low clouds for one low, low price!",
+		"product_url": "/"
+	},
+	{
+		"id": "",
+		"name": "test cloud",
+		"price": 10,
+		"image": "/uploads/descarga-2.png",
+		"description": "awesome product",
+		"product_url": ""
+	}
 ]
